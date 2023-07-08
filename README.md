@@ -1,1 +1,1 @@
-Hello! This is the first comment.
+ This is the first comment.
